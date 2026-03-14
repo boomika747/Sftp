@@ -1,0 +1,12 @@
+{
+  "sftp_credentials": {
+    "host": "sftp",
+    "port": 22,
+    "username": "testuser",
+    "password": "testpass"
+  },
+  "test_paths": {
+    "base_directory": "/upload",
+    "test_file_to_download": "/upload/test-download.txt"
+  }
+}
